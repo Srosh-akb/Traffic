@@ -9,11 +9,11 @@ AI to identify which traffic sign appears in an image.
 ```bash
 pip3 install -r requirements.txt
 ```
-6. Run the file with Python 3 using the following command
+5. Run the file with Python 3 using the following command
 ```bash
 python traffic.py gtsrb
 ```
-7. Watch the AI process the data for 10 Epochs and evaluate its accuracy after
+6. Watch the AI process the data for 10 Epochs and evaluate its accuracy after
 
 ## Background
 One of the largest challenges faced by the development of self-driving cars is computer vision,
