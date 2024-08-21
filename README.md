@@ -1,5 +1,5 @@
 ## Traffic
-AI to identify which traffic sign appears in an image.
+CS50AI Project 5 - AI to identify which traffic sign appears in an image.
 
 ## Instructions
 1. Download this repository to your device.
